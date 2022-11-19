@@ -23,7 +23,7 @@ bool esMultiplode3(int i) {
 
 
 
-int main2() {
+int main() {
 
 
 	for (size_t i = 1; i < 1000; i++)
