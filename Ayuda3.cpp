@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int opcion = 0;
+
 void menu() {
-	
+	int opcion = 0;
 	cout << "Bienvenido al menu" << endl;
 	cout << "Elije:" << endl;
 	cout << "1. Algo" << endl;
@@ -38,12 +38,7 @@ void menu() {
 		break;
 	}
 }
-
-void opcion1() {
-
-
-}
-
+ 
 int main() {
 
 	menu();
