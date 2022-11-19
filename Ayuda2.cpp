@@ -4,14 +4,14 @@ using namespace std;
  
 
 
-int main3() {
+int main() {
 
 	int dias;
 	int horas;
 	int minutos;
 	int segundos;
 
-	cout << "Cuantos dias Deseas Calcular: " ;
+	cout << "Cuantos dias Deseas Calcular: "  ;
 	cin >> dias;
 
 	 
@@ -24,6 +24,6 @@ int main3() {
 	cout << "Horas: " << horas << endl;
 	cout << "Minutos: " << minutos << endl;
 	cout <<"Segundos: " << segundos << endl;
-	return 0;
+
 
 }
