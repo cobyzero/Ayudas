@@ -4,7 +4,7 @@ using namespace std;
  
 
 
-int main() {
+int main3() {
 
 	int dias;
 	int horas;
@@ -24,6 +24,6 @@ int main() {
 	cout << "Horas: " << horas << endl;
 	cout << "Minutos: " << minutos << endl;
 	cout <<"Segundos: " << segundos << endl;
-
+	return 0;
 
 }
