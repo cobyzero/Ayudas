@@ -1,4 +1,7 @@
-
+/*
+Elabore un programa que cargue un vector con numeros positivos y negativos.
+El programa debe sustituir los numeros negativos por cero.
+Tambien se tiene que imprimir el arreglo modificado.*/
 #include<stdio.h>    
 #include <vector>
 #include <iostream>
