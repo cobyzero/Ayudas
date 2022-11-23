@@ -3,17 +3,17 @@ using namespace std;
 
 
 int main() {
-	int sueldo;
+	int sue;
 	int aumento;
 
 	cout << "Ingrese sueldo: ";
-	cin >> sueldo;
+	cin >> sue;
 
-	if (sueldo < 1000)
+	if (sue < 1000)
 	{
-		aumento = sueldo * 0.15;
-		sueldo += aumento;
+		aumento = sue * 0.15;
+		sue += aumento;
 	}
 
-	cout << "Su sueldo es: " << sueldo;
+	cout << "Su sueldo es: " << sue;
 }
