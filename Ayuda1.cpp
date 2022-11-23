@@ -22,20 +22,20 @@ bool esMultiplode3(int i) {
 }
 
 
-//
-//int main() {
-//
-//
-//	for (size_t i = 1; i < 1000; i++)
-//	{
-//		if (esMultiplode2(i))
-//		{
-//			if (!esMultiplode3(i))
-//			{
-//				cout << i << endl;
-//			} 
-//		}
-//	}
-//
-//	return 0;
-//}
+
+int main() {
+
+
+	for (size_t i = 1; i < 1000; i++)
+	{
+		if (esMultiplode2(i))
+		{
+			if (!esMultiplode3(i))
+			{
+				cout << i << endl;
+			} 
+		}
+	}
+
+	return 0;
+}
