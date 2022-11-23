@@ -2,6 +2,7 @@
 Elabore un programa que cargue un vector con numeros positivos y negativos.
 El programa debe sustituir los numeros negativos por cero.
 Tambien se tiene que imprimir el arreglo modificado.*/
+#include "Source.h"
 #include<stdio.h>    
 #include <vector>
 #include <iostream>
@@ -9,7 +10,7 @@ Tambien se tiene que imprimir el arreglo modificado.*/
 using namespace std;
 
 
-void main()
+void Ayuda5()
 {
 	vector<int>vec{-45,81,16,-25,-76,12,1};
 	 

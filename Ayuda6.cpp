@@ -13,13 +13,14 @@ Llenar un vector con numeros enteros, el programa debe:
 	Hallar el menor de los impares.
 
 */
+#include "Source.h"
 #include <iostream>
 #include <vector>
 
 
 using namespace std;
 
-int main() {
+void Ayuda6() {
 
 	vector<int> m{2,3,4,5,1,23,4,52,3,5,7,453,2,34,6,4,31,43,5,65};
 

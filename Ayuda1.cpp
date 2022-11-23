@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Source.h"
 using namespace std;
 
 
@@ -23,7 +24,7 @@ bool esMultiplode3(int i) {
 
 
 
-int main() {
+void Ayuda1() {
 
 
 	for (size_t i = 1; i < 1000; i++)
@@ -37,5 +38,5 @@ int main() {
 		}
 	}
 
-	return 0;
+	 
 }

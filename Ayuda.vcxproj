@@ -134,7 +134,11 @@
     <ClCompile Include="Ayuda5.cpp" />
     <ClCompile Include="Ayuda6.cpp" />
     <ClCompile Include="Ayuda7.cpp" />
+    <ClCompile Include="Ayuda8.cpp" />
     <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

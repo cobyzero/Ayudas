@@ -1,0 +1,9 @@
+#pragma once
+void Ayuda1();
+void Ayuda2();
+void Ayuda3();
+void Ayuda4();
+void Ayuda5();
+void Ayuda6();
+void Ayuda7();
+void Ayuda8();

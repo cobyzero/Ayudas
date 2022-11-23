@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Source.h"
 using namespace std;
 
 /*
@@ -7,7 +8,7 @@ El programa debe sustituir numeros negativos por cero.
 Tambien se tiene que imprimir el arreglo modificado
 
 */
-int main() {
+void Ayuda4() {
 	int sue;
 	int aumento;
 

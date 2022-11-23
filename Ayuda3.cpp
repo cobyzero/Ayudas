@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Source.h"
 using namespace std;
 
 
@@ -39,7 +40,7 @@ void menu() {
 	}
 }
  
-int main() {
+void Ayuda3() {
 
 	menu();
 	

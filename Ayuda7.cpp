@@ -7,13 +7,14 @@ Llenar un vector con numeros enteros, el programa debe:
 	Calcular el promedio de los valores del vector ubicados en posiciones impares del vector.
 
 */
+#include "Source.h"
 #include <iostream>
 #include <vector>
 
 
 using namespace std;
 
-int main() {
+void Ayuda7() {
 
 	vector<int> m{ 2,3,4,5,1,23,4,52,3,5,7,453,2,34,6,4,31,43,5,65 };
 
