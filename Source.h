@@ -7,3 +7,4 @@ void Ayuda5();
 void Ayuda6();
 void Ayuda7();
 void Ayuda8();
+void Ayuda9();
